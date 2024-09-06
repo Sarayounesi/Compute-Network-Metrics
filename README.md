@@ -1,4 +1,4 @@
-# Compute-Some-Network-Metrics
+# Compute-Network-Metrics
  <img width="40" height="40" src="https://img.icons8.com/?size=100&id=kOPTH4LnJoIU&format=png&color=000000" alt="homework"/>Network Metrics Computation
 This repository contains solutions for Assignment #2, which involves collecting, computing metrics for, and analyzing various network datasets.
 
